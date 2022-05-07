@@ -1,4 +1,4 @@
-- Hi, I’m @abhi-kulkarni
+- Hi, I’m Abhishek Kulkarni
 - I’m interested in Web Development
 - I’m currently working on Python,Javascript,Django,SQL,HTML,CSS,React Js & AWS 
 - I’m looking to collaborate on Web development projects based on the above stack.
