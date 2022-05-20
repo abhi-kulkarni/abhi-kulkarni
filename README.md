@@ -7,7 +7,7 @@
 -    https://deployed-capital.com/
 -    https://storlytics.net/
 -    https://www.empoweringconfidentyouth.app/
--    https://abhi-kulkarni.github.io/
+-    https://abhishekkulkarni70.wixsite.com/developer
 -    I am interested in learning and working on ML as well.
 - 📫 How to reach me 
      Email id - abhishekkulkarni706@gmail.com
