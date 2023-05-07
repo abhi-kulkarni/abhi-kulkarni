@@ -6,7 +6,7 @@
 - Some of my client websites which I have built are mentioned below:
 -    https://storlytics.net/
 -    https://www.empoweringconfidentyouth.app/
-- Below is my portfolio website url.
+- Below is my portfolio website url:
 -    https://abhishekkulkarni70.wixsite.com/developer
 - 📫 How to reach me 
      Email id - abhishekkulkarni706@gmail.com
