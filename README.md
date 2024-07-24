@@ -1,6 +1,5 @@
-- Hi, I’m Abhishek Kulkarni
-- I’m interested in Web Development
-- I’m currently working on Python, NodeJs, Javascript, Flask, SQL, HTML, CSS, ReactJs, Docker and AWS.
+- Hi, I’m Abhishek Kulkarni, I am a Full stack developer.
+- I’m currently working on Python, NodeJs, Javascript, Typescript, Flask, SQL, HTML, CSS, ReactJs, Docker and AWS.
 - I’m looking to collaborate on Web development projects based on the above stack.
 - I have worked for multiple clients on freelancing websites like Fiverr and Upwork and have built many end to end projects starting from database design to          deployment of AWS
 - One of the client websites which I have built are mentioned below:
