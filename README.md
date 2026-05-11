@@ -1,7 +1,7 @@
 - Hi, I am Abhishek Kulkarni and I work as a Full stack developer.
-- I’m currently working on Python, JavaScript, TypeScript, Flask, SQL, HTML, CSS, ReactJs, Docker and AWS.
-- I’m looking to collaborate on Web development projects based on the above stack.
-- I have worked for multiple clients on freelancing websites like Fiverr and Upwork and have built many end to end projects starting from database design to deployment of AWS.
+- I am m currently working on Python, JavaScript, TypeScript, Flask, FastAPI, SQL, HTML, CSS, ReactJs, Docker.
+- Looking to collaborate on Web development projects based on the above stack.
+- I have worked for multiple clients on freelancing websites like Fiverr and Upwork and have built many end to end projects starting from database design to deployment of AWS/GCP/Azure.
 - 📫 How to reach me 
      Email id - abhishekkulkarni706@gmail.com
 
